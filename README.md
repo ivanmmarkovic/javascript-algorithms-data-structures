@@ -15,4 +15,8 @@ JavaScript algorithms and data structures
 - [queue linked list](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/queue/queue-linked-list.js)
 - [queue two stacks](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/queue/queue-two-stacks.js)
 
-### [Dequeue]()
+### [Dequeue](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/deque)
+- [deque dynamic array](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/deque/deque-dynamic-array.js)
+- [deque circular fixed size array](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/deque/deque-circular-fixed-size-array.js)
+
+
