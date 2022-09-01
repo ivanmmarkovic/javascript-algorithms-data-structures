@@ -22,7 +22,6 @@ class LinkedList {
 
     numberOfElements(){
         let count = 0;
-        let node = this.head;
         for(let node = this.head; node != null; node = node.next){
             count++;
         }
@@ -30,7 +29,6 @@ class LinkedList {
     }
 
     printAll(){
-        let node = this.head;
         for(let node = this.head; node != null; node = node.next){
             console.log(node.payload);
         }
@@ -148,7 +146,7 @@ class LinkedList {
     }
 
     insertBefore(listElement, newElement){
-        let node = prev;
+        let prev = null;
         for(let node = this.head; node != null; node = node.next){
             if(node.payload == listElement){
                 if(node == this.head){
