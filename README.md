@@ -25,5 +25,15 @@ JavaScript algorithms and data structures
 - [Circular singly linked list](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/linked-lists/circular-singly-linked-list)
 - [Circular doubly linked list](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/linked-lists/circular-doubly-linked-list)
 
+### [Recursion](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/recursion)
+- [Convert number - iterative solution](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/convert-number-iterative.js)
+- [Convert number - recursive solution](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/convert-number-recursive.js)
+- [Factorial](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/factorial.js)
+- [Fibonacci - iterative solution](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/fibonacci-iterative.js)
+- [Fibonacci - recursive worst solution](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/fibonacci-recursive-worst-solution.js)
+- [Fibonacci - recursive memoization](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/fibonacci-recursive-memoization.js)
+- [Fibonacci - recursive solution](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/fibonacci-recursive.js)
+- [Fibonacci sum - iterative solution](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/fibonacci-sum-iterative.js)
+- [Fibonacci sum - recursive solution](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/fibonacci-sum-recursive.js)
 
 
