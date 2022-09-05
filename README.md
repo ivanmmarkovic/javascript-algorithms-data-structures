@@ -35,5 +35,6 @@ JavaScript algorithms and data structures
 - [Fibonacci - recursive solution](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/fibonacci-recursive.js)
 - [Fibonacci sum - iterative solution](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/fibonacci-sum-iterative.js)
 - [Fibonacci sum - recursive solution](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/fibonacci-sum-recursive.js)
+- [Maze path finder](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/maze.js)
 
 
