@@ -36,5 +36,12 @@ JavaScript algorithms and data structures
 - [Fibonacci sum - iterative solution](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/fibonacci-sum-iterative.js)
 - [Fibonacci sum - recursive solution](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/fibonacci-sum-recursive.js)
 - [Maze path finder](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/maze.js)
-
+- [Reverse array iterative](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/reverse-array-iterative.js)
+- [Reverse array recursive](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/reverse-array-recursive.js)
+- [Reverse linked list iterative stack](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/reverse-linked-list-iterative-stack.js)
+- [Reverse linked list iterative](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/reverse-linked-list-iterative.js)
+- [Reverse linked list recursive](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/reverse-linked-list-recursive.js)
+- [Sum numbers in array pointer](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/sum-numbers-pointer.js)
+- [Sum numbers in array binary recursion](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/sum-numbers-binary-recursion.js)
+- [Towers of Hanoi](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/towers-of-hanoi.js)
 
