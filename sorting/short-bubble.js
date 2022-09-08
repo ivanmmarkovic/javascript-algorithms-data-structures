@@ -2,9 +2,10 @@
 
 function shortBubble(nums){
     let swapped = true;
+    let dec = 1;
     do {
         swapped = false;
-        for (let index = 0; index < array.length - 1; index++) {
+        for (let index = 0; index < array.length - dec; index++) {
             if(nums[index] > nums[index + 1]){
                 let v = nums[index + 1];
                 nums[index + 1] = nums[index];
@@ -12,6 +13,7 @@ function shortBubble(nums){
                 swapped = true;
             }
         }
+        dec++;
     } while (swapped);
 
 };
