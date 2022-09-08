@@ -54,3 +54,14 @@ JavaScript algorithms and data structures
 - [Binary search iterative](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/searching/binary-search-iterative.js)
 
 
+### [Sorting](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/sorting)
+- [Bubble sort](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/sorting/bubble-sort.js)
+- [Short bubble](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/sorting/short-bubble.js)
+- [Insertion sort](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/sorting/insertion-sort.js)
+- [Selection sort](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/sorting/selection-sort.js)
+- [Merge sort](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/sorting/merge-sort.js)
+- [Quick sort](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/sorting/quick-sort.js)
+
+
+
+
