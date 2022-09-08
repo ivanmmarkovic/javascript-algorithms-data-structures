@@ -45,3 +45,12 @@ JavaScript algorithms and data structures
 - [Sum numbers in array binary recursion](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/sum-numbers-binary-recursion.js)
 - [Towers of Hanoi](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/recursion/towers-of-hanoi.js)
 
+
+### [Searching](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/searching)
+- [Sequential search](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/searching/sequential-search.js)
+- [Sequential search sorted array](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/searching/sequential-search-ordered-array.js)
+- [Binary search recursive](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/searching/binary-search-recursive.js)
+- [Binary search recursive pointers](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/searching/binary-search-recursive-pointers.js)
+- [Binary search iterative](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/searching/binary-search-iterative.js)
+
+
