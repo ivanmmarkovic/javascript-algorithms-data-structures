@@ -54,9 +54,9 @@ JavaScript algorithms and data structures
 - [Binary search iterative](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/searching/binary-search-iterative.js)
 
 
-### [Hash table]()
-- [Open adressing]()
-- [Chaining]()
+### [Hash table](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/hash-table)
+- [Open adressing](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/hash-table/hash-table-open-adressing.js)
+- [Chaining](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/hash-table/hash-table-chaining.js)
 
 
 ### [Sorting](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/sorting)
