@@ -1,6 +1,11 @@
 
 
+/*
 
+keys = [-1, -1, -1, 44, -1]
+Caling put method for key 44 and looking for -1 doesn't solve a problem.
+
+*/
 class HashTable {
 
     constructor(capacity = 11){
@@ -89,40 +94,40 @@ class HashTable {
 
 
 
-let ht = new HashTable()
-ht.put(11, 'string 11')
-ht.put(22, 'string 22')
-ht.put(33, 'string 33')
-ht.put(44, 'string 44')
+let ht = new HashTable();
+ht.put(11, 'string 11');
+ht.put(22, 'string 22');
+ht.put(33, 'string 33');
+ht.put(44, 'string 44');
 
-ht.put(21, 'string 21')
-ht.put(12, 'string 12')
+ht.put(21, 'string 21');
+ht.put(12, 'string 12');
 
-console.log(ht.keys)
-console.log(ht.values)
-console.log(ht.size())
-console.log('Get 11', ht.get(11))
-console.log('Get 22', ht.get(22))
-console.log('Get 147', ht.get(147))
-console.log('----------------------------------------')
+console.log(ht.keys);
+console.log(ht.values);
+console.log(ht.size());
+console.log('Get 11', ht.get(11));
+console.log('Get 22', ht.get(22));
+console.log('Get 147', ht.get(147));
+console.log('----------------------------------------');
 
-console.log('Contains 22', ht.contains(22))
-ht.delete(22)
-console.log(ht.size())
-console.log(ht.keys)
-console.log(ht.values)
-console.log('Contains 22', ht.contains(22))
-console.log('----------------------------------------')
+console.log('Contains 22', ht.contains(22));
+ht.delete(22);
+console.log(ht.size());
+console.log(ht.keys);
+console.log(ht.values);
+console.log('Contains 22', ht.contains(22));
+console.log('----------------------------------------');
 
-console.log('Contains 44', ht.contains(44))
-console.log(ht.keys)
-console.log(ht.values)
-console.log('Contains 77', ht.contains(77))
-ht.put(44, 'string 144')
-ht.put(77, 'string 77')
+console.log('Contains 44', ht.contains(44));
+console.log(ht.keys);
+console.log(ht.values);
+console.log('Contains 77', ht.contains(77));
+ht.put(44, 'string 144');
+ht.put(77, 'string 77');
 
-console.log(ht.size())
-console.log(ht.keys)
-console.log(ht.values)
-console.log('Contains 77', ht.contains(77))
-console.log('Contains 44', ht.contains(44))
+console.log(ht.size());
+console.log(ht.keys);
+console.log(ht.values);
+console.log('Contains 77', ht.contains(77));
+console.log('Contains 44', ht.contains(44));
