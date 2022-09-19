@@ -68,5 +68,6 @@ JavaScript algorithms and data structures
 - [Quick sort](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/sorting/quick-sort.js)
 
 
-
+### [Trees](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/trees)
+- [Binary heap - min heap implementation](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/trees/binary-heap.js)
 
