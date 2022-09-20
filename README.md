@@ -70,4 +70,4 @@ JavaScript algorithms and data structures
 
 ### [Trees](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/trees)
 - [Binary heap - min heap implementation](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/trees/binary-heap.js)
-
+- [Binary search tree](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/trees/binary-search-tree.js)
