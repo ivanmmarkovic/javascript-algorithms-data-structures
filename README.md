@@ -74,4 +74,5 @@ JavaScript algorithms and data structures
 - [AVL tree](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/trees/avl-tree.js)
 
 
-### [Trie](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/trie/trie.js)
+### [Trie](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/trie)
+- [Trie](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/trie/trie.js)
