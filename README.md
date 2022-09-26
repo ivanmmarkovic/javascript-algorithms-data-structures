@@ -75,11 +75,15 @@ JavaScript algorithms and data structures
 
 
 ### [Graphs](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/graphs)
-- [Breadth first search](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/breadth-first-search.js)
-- [Breadth first search](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/depth-first-search.js)
-- [Breadth first search recursive](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/depth-first-search-recursive.js)
-- [Test for connectivity](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/is-connected-undirected-graph.js)
-- [Minimum spanning tree - breadth first search](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/minimum-spanning-tree.js)
+- [Breadth first search](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/graphs/breadth-first-search)
+- [Depth first search](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/graphs/depth-first-search)
+- [Depth first search](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/depth-first-search/depth-first-search.js)
+- [Depth first search recursive](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/depth-first-search/depth-first-search-recursive.js)
+- [Test for connectivity](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/graphs/connectivity-test)
+- [Cycle detection](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/graphs/cycle-detection)
+- [Cycle detection undirected graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/cycle-detection/cycle-detection-undirected-graph.js)
+- [Cycle detection directed graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/cycle-detection/cycle-detection-directed-graph.js)
+- [Minimum spanning tree](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/graphs/minimum-spanning-tree)
 
 ### [Trie](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/trie)
 - [Trie](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/trie/trie.js)
