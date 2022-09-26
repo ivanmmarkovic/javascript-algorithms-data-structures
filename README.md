@@ -84,7 +84,7 @@ JavaScript algorithms and data structures
     - [Cycle detection undirected graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/cycle-detection/cycle-detection-undirected-graph.js)
     - [Cycle detection directed graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/cycle-detection/cycle-detection-directed-graph.js)
 - [Minimum spanning tree](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/graphs/minimum-spanning-tree)
-    - [Minimum Spanning Tree in undirected graph]()
+    - [Minimum Spanning Tree in undirected graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/minimum-spanning-tree/minimum-spanning-tree-undirected-graph.js)
 
 ### [Trie](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/trie)
 - [Trie](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/trie/trie.js)
