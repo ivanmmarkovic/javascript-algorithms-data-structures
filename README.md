@@ -85,10 +85,10 @@ JavaScript algorithms and data structures
     - [Cycle detection directed graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/cycle-detection/cycle-detection-directed-graph.js)
 - [Minimum spanning tree](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/graphs/minimum-spanning-tree)
     - [Minimum Spanning Tree in undirected graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/minimum-spanning-tree/minimum-spanning-tree-undirected-graph.js)
-    - [Prims](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/minimum-spanning-tree/prims.js)
+    - [Prim's algorithm - Minimum Spanning Tree in undirected weighted graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/minimum-spanning-tree/prims.js)
 - [Dijkstra shortest path](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/graphs/dijkstra)
-    - [Dijkstra priority queue](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/dijkstra/dijkstra.js)
-    - [Dijkstra matrix](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/dijkstra/dijkstra-matrix.js)
+    - [Dijkstra priority queue implementation](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/dijkstra/dijkstra.js)
+    - [Dijkstra matrix implementation](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/dijkstra/dijkstra-matrix.js)
 
 ### [Trie](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/trie)
 - [Trie](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/trie/trie.js)
