@@ -85,7 +85,7 @@ JavaScript algorithms and data structures
     - [Cycle detection directed graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/cycle-detection/cycle-detection-directed-graph.js)
 - [Topological sorting](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/graphs/topological-sorting)
 - [Minimum spanning tree](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/graphs/minimum-spanning-tree)
-    - [Minimum Spanning Tree in undirected graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/minimum-spanning-tree/minimum-spanning-tree-undirected-graph.js)
+    - [Minimum spanning tree in undirected graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/minimum-spanning-tree/minimum-spanning-tree-undirected-graph.js)
     - [Prim's algorithm - Minimum spanning tree in undirected weighted graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/minimum-spanning-tree/prims.js)
     - [Kruskal's algorithm - Minimum spanning tree in undirected weighted graph](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/blob/main/graphs/minimum-spanning-tree/kruskal.js)
 - [Dijkstra shortest path](https://github.com/ivanmmarkovic/javascript-algorithms-data-structures/tree/main/graphs/dijkstra)
